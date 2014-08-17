@@ -1,0 +1,41 @@
+<ul class="skills">
+	<li>
+		<span class="bullet bullet-java flip">
+			<i class="icon-java"></i>
+		</span>
+		<strong>Java,</strong><div class="since" data-since="2010-01-01"></div>
+	</li>
+	<li>
+		<span class="bullet bullet-php flip">
+			<i class="icon-php"></i>
+		</span>
+		<strong>PHP,</strong><div class="since" data-since="2009-01-01"></div>
+	</li>
+	<li>
+		<span class="bullet bullet-ruby flip">
+			<i class="icon-ruby"></i>
+		</span>
+		<strong>Ruby,</strong><div class="since" data-since="2011-01-01"></div>
+	</li>
+	<li>
+		<span class="bullet bullet-shell flip">
+			<i class="icon-shell"></i>
+		</span>
+		<strong>Bash,</strong><div class="since" data-since="2012-01-01"></div>
+	</li>
+	<li>
+		<span class="bullet bullet-javascript flip">
+			<i class="icon-javascript"></i>
+		</span>
+		<strong>Javscript,</strong><div class="since" data-since="2012-01-01"></div>
+	</li>
+</ul>
+<script>
+	$(function(){
+		$('.since').each(function(){
+			var date = $(this).data('since');
+			var a = moment(date).fromNow(true);
+			$(this).html(a);
+		});
+	});
+</script>

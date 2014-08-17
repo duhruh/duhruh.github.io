@@ -1,0 +1,18 @@
+<header class="site-header">
+ <div class="overlay"></div>
+  <div class="wrapper">
+    <div class="featured">
+      <img class="me flip" src="{{ site.gravatar_url | prepend: site.baseurl }}?s=200" />
+      <div class="hr hr-big">
+        <hr />
+      </div>
+      <div class="about-me">
+        {{site.description}}
+      </div>
+      <div class="hr hr-small">
+        <hr />
+      </div>
+      {% include social-networks.html %}
+    </div>
+  </div>
+</header>
