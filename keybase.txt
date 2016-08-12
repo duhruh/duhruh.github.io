@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/duhruh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://duhruh.github.io
+  * I am duhruh (https://keybase.io/duhruh) on keybase.
+  * I have a public key with fingerprint 60F4 A259 7C4C A693 634A  D851 4168 B590 F23D 8236
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011201571359f7178e070317440a40db61635ae22ac120d796f64f0e88021a9d850a",
+            "fingerprint": "60f4a2597c4ca693634ad8514168b590f23d8236",
+            "host": "keybase.io",
+            "key_id": "4168b590f23d8236",
+            "kid": "01011201571359f7178e070317440a40db61635ae22ac120d796f64f0e88021a9d850a",
+            "uid": "913ac07bbfa320307d61380d988b7619",
+            "username": "duhruh"
+        },
+        "service": {
+            "hostname": "duhruh.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471025850,
+    "expire_in": 157680000,
+    "prev": "95f7b5814511e3033462c08ed6f9094a5cce632f4f2d6468373a4743c333d02b",
+    "seqno": 32,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBVBGD5Hu6kVlQZiEbRRdjnIzM7uzO6hIkqoRHsoIojgNLs7e86i
+7R737NHkZERlRNA9Ci9QEkgvdnkIweiu9GAPWVEhWWmRxxKlMKiwy6zVQ9Bj8zLM
+/3/fN9/383dMywxkB9N1xQWHFyjpYNfthmRgy8VZ7SlBc4waIZwSytn4xSoMlvAi
+5ZYhhAUAAYQigDKBSFZNAonCAAEIEkkCVAKGhiFGMmWiSHUONIiKTSyZgCkKECFV
+DUUGVAgJpmVHmRt3LdvjshiYEhVlleiSTrGKMJIoR0IJYkWTVWCKyFBEhDkx5iR8
+Bjen0QQrshxe44/IuL1/4P+z7+S4nAoR1QHRNJMiESBADAyRAgxVUTSCoeoDE8y1
+6Q7G0UYy5iZjQm1I4LUqS2f+WP0cf/WLopYXS2q/EsVdx3N0p4J3Y54XT4R9tlcT
+9+HVTIv8Fopolm3wSXJGFXMTlmMLYciRumf5ylAiEIgytx4S2M645bKI5SNkghXA
+j/8Pq/LzyCbRZAVKMoQMAYQkLOpAYQY2VaBKVNZ1hpFoSqZoYAkriCAqEQnpCCED
+iJrgR6u0HSGMRO6TRrlmwora1Eu6TKi9c2vbhEAwOzBpYoa/YoHsrBl/Fm/z6OSx
+nOrPfR/zaoaOBu+2fG+/fm+k+tPeda3fFl01csGA0pyXLpyUOWG+W3whZ3do8TM4
+aM89Vbhrzr6m3mytoPOLHVp28uW0nq8lZMP80Pul3ovcg5n56SVX2sDDPc0VQrL7
+2JF59jWQU3f63cWBsoVZR16XzYYZgdI+mvXmfKIjNfbqxI2S+sfrteGsjfk19W/T
+w8OXUlHhS+Oh2k3nbjQGK2aOnLn/ZE69N1rZtaqt8dqHzvL+usEDBbGzKy83PNja
+0Nhe2vv8aWX4R8nU/VNunWx71E9mle457m5fsay4vLW7sOjswXlNbWh6j7N0aMGM
+lvN49eVmUld0M+Pb2qbe1MzlmWt+AmaxOYg=
+=9Dxv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/duhruh
+
+==================================================================
